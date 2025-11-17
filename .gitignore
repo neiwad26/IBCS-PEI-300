@@ -1,0 +1,8 @@
+target/
+*.xlsx
+*.xls
+*.log
+*.tmp
+.DS_Store
+.idea/
+.vscode/
